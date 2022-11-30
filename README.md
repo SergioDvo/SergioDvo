@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**SergioDvo/SergioDvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Conocmientos
+1. Clona este proyecto.
+2. Ve a la carpeta del proyecto
+`cd pokedex`
+3. Instala las dependencias
+`npm install`
+4. Corre el ambiente local
+`npm run dev`
 
-Here are some ideas to get you started:
+## 🛠 Despliegue
+1. Una vez instsaladas las dependencias, puedes hacer el build
+`npm build:ddl && npm build`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🦀 Base de Datos Pokemon
+Todos los datos vienen de [PokeApi](https://pokeapi.co/)
+
+## 🧾 License
+The MIT License (MIT)
+
+## ✨ Agradecimientos
+* A mi nena Emilia por inspirarme a seguir este proyecto.
