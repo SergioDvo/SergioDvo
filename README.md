@@ -1,23 +1,14 @@
 ### Hi there 👋
 
-## 🚀 Conocmientos
-1. Clona este proyecto.
-2. Ve a la carpeta del proyecto
-`cd pokedex`
-3. Instala las dependencias
-`npm install`
-4. Corre el ambiente local
-`npm run dev`
+## 🚀 Presentacion
+Soy Sergio Garrido Diez y estoy estudiando desarrollo de aplicaciones multiplataforma, aqui subo los publicamente los trabajos una vez terminados
 
 ## 🛠 Despliegue
-1. Una vez instsaladas las dependencias, puedes hacer el build
-`npm build:ddl && npm build`
+1. Abre el proyecto en un IDE como IntellIJ
 
-## 🦀 Base de Datos Pokemon
-Todos los datos vienen de [PokeApi](https://pokeapi.co/)
+## 🦀 Base de Datos
+Todos los datos son propios y creados por mi
 
-## 🧾 License
-The MIT License (MIT)
 
 ## ✨ Agradecimientos
-* A mi nena Emilia por inspirarme a seguir este proyecto.
+* A Oscar Novillo Camacho por las enseñanzas
