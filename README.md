@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bienvenido 👋
 
 ## 🚀 Presentacion
 Soy Sergio Garrido Diez y estoy estudiando desarrollo de aplicaciones multiplataforma, aqui subo los publicamente los trabajos una vez terminados
